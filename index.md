@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Advanced Software Engineering
 ---
 
 Authors:
@@ -12,20 +10,21 @@ Authors:
 - Mateusz Maksimowicz
 
 
-#### Subject: Better handling of albums with multiple CDs
+### Subject: Better handling of albums with multiple CDs
 
 Description:
 
 Currently, when an album has multiple CDs the current display of them is a bit visually unpleasing.
 All tracks are displayed in a list where multiple tracks have the same number.
 
-<img src="imgs/display_problem.png"/>
+![image](https://github.com/user-attachments/assets/faa1430b-4af1-48f4-9d38-15c19a908060)
 
 Our goal is to modify this aspect and present tracks in separate sections.
 
 Example acceptance criteria:
 
-<img src="imgs/display_solution.png"/>
+![image](https://github.com/user-attachments/assets/778c7155-f362-4a71-8b4b-a399d299373b)
+
 
 
 
