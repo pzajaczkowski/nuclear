@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Advanced Software Engineering
 ---
 
 Authors:
@@ -26,5 +25,9 @@ Example acceptance criteria:
 ![image](https://github.com/user-attachments/assets/778c7155-f362-4a71-8b4b-a399d299373b)
 
 
-
-
+| Provider  | Example of a broken album |
+| ------------- | ------------- |
+| Spotify  | 2Pac - All Eyez On Me / All This Bad Blood  |
+| musicBrainz  | 2Pac - All Eyez On Me  |
+| Discogs  | Mozart Requiem (angel cover)  |
+| ITunes  | 2Pac - All Eyez On Me (cd's not divided at all)  |
