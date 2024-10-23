@@ -31,3 +31,16 @@ Example acceptance criteria:
 | musicBrainz  | 2Pac - All Eyez On Me  |
 | Discogs  | Mozart Requiem (angel cover)  |
 | ITunes  | 2Pac - All Eyez On Me (cd's not divided at all)  |
+
+### Where to start
+
+[Track](./packages/core/src/structs/Track.ts) -
+[https://github.com/pzajaczkowski/nuclear/blob/master/packages/core/src/structs/Track.ts](https://github.com/pzajaczkowski/nuclear/blob/master/packages/core/src/structs/Track.ts)
+
+[SpotifyClient](./packages/core/src/rest/Spotify.ts) - [https://github.com/pzajaczkowski/nuclear/blob/master/packages/core/src/rest/Spotify.ts](https://github.com/pzajaczkowski/nuclear/blob/master/packages/core/src/rest/Spotify.ts)
+
+TrackList - [https://github.com/pzajaczkowski/nuclear/tree/master/packages/ui/lib/components/GridTrackTable](https://github.com/pzajaczkowski/nuclear/tree/master/packages/ui/lib/components/GridTrackTable)
+
+- [GridTrackTable](./packages/ui/lib/components/GridTrackTable/index.tsx)
+
+- [GridTrackTableRow](./packages/ui/lib/components/GridTrackTable/GridTrackTableRow.tsx)
